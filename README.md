@@ -1,6 +1,6 @@
 # glm-via-boosting
-부스팅을 이용한 일반화선형모형('glmboost') 소개 및 고객신용 데이터에 예측 성능 비교 (glm vs gbm vs glmboost)
-22년도 1학기 부산대학교 대학원수업 '일반화선형모형론' Term-Project 발표 자료.
+  부스팅을 이용한 일반화선형모형('glmboost') 소개 및 고객신용 데이터에 예측 성능 비교 (glm vs gbm vs glmboost)  
+  본 PPT는 22년도 1학기 부산대학교 대학원수업 '일반화선형모형론' Term-Project에 사용된 발표 자료임.
 
 (참고논문)
 - [1] Benjamin Hofner ,  Andreas Mayr, Nikolay Robinzonov, Matthias Schmid (2012) Model-based boosting in R: a hands-on tutorial using the R package mboost. Computational Statistics 29(1-2).
